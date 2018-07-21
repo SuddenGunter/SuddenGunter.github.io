@@ -45,6 +45,10 @@ a.socials-link:visited {
     line-height: 1.5em;
 }
 
+.job-place_project-name{
+    font-weight:bolder;
+}
+
 h4{
     margin-bottom: 0;
     margin-top: 0.2em;
