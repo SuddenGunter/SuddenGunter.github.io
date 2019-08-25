@@ -1,0 +1,61 @@
+#content-wrapper{
+    max-width: 700px;
+    margin:0 auto;
+}
+
+a.socials-link:link {
+    text-decoration: inherit;
+    color: inherit;
+}
+
+a.socials-link:visited {
+    text-decoration: inherit;
+    color: inherit;
+}
+
+#socials{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#upwork-link{
+    font-weight: bold;
+    line-height: 27px;
+}
+
+#upwork-link:hover{
+    color:green;
+}
+
+.socials-link{
+    display: block;
+}
+
+.socials-link.fa-icon{
+    font-size: 25px;
+}
+
+.socials-link i:hover{
+    color:lightskyblue;
+}
+
+.large-text{
+    text-align:justify;
+    line-height: 1.5em;
+}
+
+.job-place_project-name{
+    font-weight:bolder;
+}
+
+h4{
+    margin-bottom: 0;
+    margin-top: 0.2em;
+}
+
+h5{
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 0.2em;
+}
