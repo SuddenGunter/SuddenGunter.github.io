@@ -2,7 +2,7 @@
 layout: post
 title:  "Fix poor firefox performance on i3"
 date:   2019-08-25 22:44:50 +0300
-categories: arch linux i3 wm compton firefox telegram issue performance
+categories: arch
 ---
 ![Firefox on Arch](/assets/post1_title.jpg)
 On my new laptop with i7-8750h and fresh Arch Linux install - Firefox was laggy as hell. Whant to know why and how to fix it? 
