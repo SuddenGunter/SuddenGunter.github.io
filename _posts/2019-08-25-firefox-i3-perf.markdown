@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fix poor firefox performance on i3"
+title:  "Fix poor Firefox performance on i3"
 date:   2019-08-25 22:44:50 +0300
 categories: arch
 ---
