@@ -36,8 +36,13 @@ a.socials-link:visited {
     font-size: 25px;
 }
 
-.socials-link i:hover{
+.socials-link.blue-on-hover i:hover{
     color:lightskyblue;
+}
+
+.socials-link.purple-on-hover i:hover{
+    /*https://gist.github.com/christopheranderton/4c88326ab6a5604acc29*/
+    color: #6e5494;
 }
 
 .large-text{
