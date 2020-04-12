@@ -39,6 +39,8 @@ As far as I can tell - compton fixed firefox and telegram lags, I guess it may b
 But for now - it works perfectly.
 
 **Update**: compton in Arch linux repos was replaced with [Picom][picom]
+
+
 [dotfiles-github]: https://github.com/SuddenGunter/dotfiles
 [arch-i3-tearing]: https://wiki.archlinux.org/index.php/I3#Tearing
 [reddit-firefox-issue]: https://www.reddit.com/r/i3wm/comments/4wqwcf/why_would_an_application_run_slow_in_i3_and_fast/d6loavq?utm_source=share&utm_medium=web2x
