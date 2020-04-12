@@ -3,3 +3,15 @@
 ---
 
 @import "minima";
+
+.post-attention-pic {
+    flex: 30%;
+}
+
+.post-excerpt-text {
+  flex: 70%;
+}
+
+.post-excerpt {
+    display: flex;
+}

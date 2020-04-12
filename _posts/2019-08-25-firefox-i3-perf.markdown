@@ -4,11 +4,15 @@ title:  "Fix Firefox lags on i3"
 date:   2019-08-25 22:44:50 +0300
 categories: arch
 ---
+
+{:.post-excerpt-text}
+On my new laptop with i7-8750h, 16GB RAM, SSD and fresh Arch Linux - Firefox was laggy as hell. Want to know why and how to fix it? <br>
+**TLDR: install compton**
+
+{:.post-attention-pic}
 ![Firefox on Arch](/assets/post1_title.jpg)
 
-On my new laptop with i7-8750h, 16GB RAM, SSD and fresh Arch Linux - Firefox was laggy as hell. Want to know why and how to fix it? 
-<sub> (TLDR: install compton)</sub>
-
+<!--more-->
 
 Recently I've purchased a new laptop: Dell XPS 9570.
 I've installed Arch Linux, installed the same packages that I'd on my desktop system for several months, copied [dotfiles][dotfiles-github]

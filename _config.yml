@@ -30,6 +30,7 @@ disqus:
   shortname: suddengunter-github-io
 
 show_excerpts: true
+excerpt_separator: <!--more-->
 # Build settings
 theme: minima
 plugins:
